@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi Gays 👋
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=xxx)
+
+
+
+### Most Used
+![](https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=Python)
+![](https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=Kubernetes)
+![](https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=CI/CD)
 
 <!--
 **ayunwSky/ayunwSky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
