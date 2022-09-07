@@ -1,13 +1,13 @@
-### Hi Gays 👋
+### Hi Gays 👋. I'am ayunwSky!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=xxx)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayunwSky&layout=compact)](https://github.com/ayunwSky/github-readme-stats)
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayunwSky)](https://github.com/ayunwSky/github-readme-stats)
 
 ### Most Used
-![](https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=Python)
-![](https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=Kubernetes)
-![](https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=CI/CD)
+![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python)
+![](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=Kubernetes)
+![](https://img.shields.io/badge/-CI/CD-blue?style=flat-square&logo=CI/CD)
 
 <!--
 **ayunwSky/ayunwSky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
