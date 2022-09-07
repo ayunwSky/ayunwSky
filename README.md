@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayunwSky&layout=compact)](https://github.com/ayunwSky/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayunwSky)](https://github.com/ayunwSky/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayunwSky&show_icons=true&theme=onedark)
 
 ### Most Used
 ![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python)
