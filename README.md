@@ -1,4 +1,4 @@
-### Hi Gays 👋. I'am ayunwSky!
+### Hi Guys 👋. I'am ayunwSky!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayunwSky&layout=compact)](https://github.com/ayunwSky/github-readme-stats)
 
