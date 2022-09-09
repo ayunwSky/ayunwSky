@@ -8,7 +8,10 @@ I'am ayunwSky!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayunwSky&layout=compact)](https://github.com/ayunwSky/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayunwSky&show_icons=true&theme=radical)
+[![ayunwSky's github stats](https://github-readme-stats.vercel.app/api?username=ayunwSky)](https://github.com/ayunwSky/github-readme-stats)
+
+<img align="left" alt="GIF" src="https://camo.githubusercontent.com/d15059aad4e71fc4ef8f7f01bb77112c7a636f6e98253201392709c9e4d2686c/68747470733a2f2f747661342e73696e61696d672e636e2f6c617267652f3030386b315974306c793168346e6f3530306f6276673330666b30626f31636e2e676966" />
+
 
 
 
